@@ -1,0 +1,12 @@
+[submodule "rc3e-server"]
+	path = rc3e-server
+	url = https://github.com/VLSI-EDA/rc3e-server.git
+[submodule "rc3e-client"]
+	path = rc3e-client
+	url = https://github.com/VLSI-EDA/rc3e-client.git
+[submodule "rc3e-node"]
+	path = rc3e-node
+	url = https://github.com/VLSI-EDA/rc3e-node.git
+[submodule "RC2F"]
+	path = RC2F
+	url = https://github.com/VLSI-EDA/RC2F.git
