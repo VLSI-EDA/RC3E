@@ -11,7 +11,8 @@ Faculty of Computer Science, Technische Universität Dresden, Germany
 **http://vlsi-eda.inf.tu-dresden.de**
 
 
-<img src="https://raw.githubusercontent.com/VLSI-EDA/RC3E/master/docs/_static/images/logo_tud.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/VLSI-EDA/RC3E/master/docs/_static/images/logo_tud.jpg" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/VLSI-EDA/RC3E/master/docs/_static/images/rc3e_logo.jpg" width="350" />
 
 
 ## 1 Overview
